@@ -53,11 +53,6 @@ $ npm run test:watch
 # These commands will handle a /src/herois.json file
 ```
 
-```vscode
-# These commands will handle a /src/herois.json file
-./src/
-```
-
 ### Libs
 
 - commander
