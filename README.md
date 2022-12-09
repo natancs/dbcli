@@ -49,6 +49,13 @@ $ npm run dbcli delete -i HeroID
 # Run tests
 $ npm run test
 $ npm run test:watch
+
+# These commands will handle a /src/herois.json file
+```
+
+```vscode
+# These commands will handle a /src/herois.json file
+./src/
 ```
 
 ### Libs
